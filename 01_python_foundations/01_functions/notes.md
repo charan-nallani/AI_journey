@@ -257,9 +257,3 @@ def set_priority(priority: str) -> None:
 | Descriptive names | Code should read like plain English |
 
 ---
-
-## My Understanding
-
-*Write here in your own words.
-What was confusing? What clicked and when?
-Be honest — this is for you.*
